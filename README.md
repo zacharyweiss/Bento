@@ -2,7 +2,7 @@
     <h1>Bento</h1>
     <b>🍱 A Clean and Simple Startpage</b>
 </div>
-
+ 
 <p align="center">
   <img src="https://github.com/MiguelRAvila/Bento/blob/master/assets/Header.png">
 </p>
